@@ -95,7 +95,7 @@ $twitter="twitter";
           </li>
 
             <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="sistema_gibego/">admin</a>
+            <a class="nav-link js-scroll-trigger" href="sistema_gibego/">Login</a>
           </li>
         </ul>
       </div>
@@ -251,7 +251,7 @@ $twitter="twitter";
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Contactenos</h2>
-          <h3 class="section-subheading text-muted">Envie sus consulta o cotizacion</h3>
+          <h3 class="section-subheading text-muted">Envie sus comentarios</h3>
         </div>
       </div>
       <div class="row">
@@ -274,7 +274,7 @@ $twitter="twitter";
               </div>
               <div class="col-md-6">
                 <div class="form-group">
-                  <textarea class="form-control" id="message" placeholder="Escriba su cotizacion *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                  <textarea class="form-control" id="message" placeholder="Escriba su comentario *" required="required" data-validation-required-message="Please enter a message."></textarea>
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
